@@ -4,12 +4,15 @@
 
 A princípio, o desafio trata-se de um preenchimento de colunas de uma classe escolar com a seguinte planilha no excel:
 
+![Antes](Antes_Planilha.jpeg)
 
 
 
 Preferi usar Python pela facilidade que tive no entendimento da documentação do Google Sheets.
 
 O print abaixo representa a planilha após o preenchimento:
+
+![Depois](Depois_Planilha.jpeg)
 
 Minha planilha atualizada:
 https://docs.google.com/spreadsheets/d/1aBNO50SgbE35h7OgvyH0x7NqepqwdsRSK2PGl9z5fZc/edit#gid=0
